@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/Chukwu-Emeka/Data-Learning.git
+Author: Emeka Ibezimako
+Author-email: ibezimakoemeka@gmail.com
+License: MIT
+
+# mypackage
+This libary was created as an example for how to publish your own Python package
+
+# how to install
+...
